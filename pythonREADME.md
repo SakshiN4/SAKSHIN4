@@ -1,0 +1,5 @@
+PYTHON ADDITION PROGRAM
+x=2
+y=4
+z=x+y
+print(z)
